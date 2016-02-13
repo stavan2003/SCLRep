@@ -1,0 +1,61 @@
+Terminal:Auto:Auto
+Terminal:R-OADM:Auto
+Terminal:R-OADM:WSS
+Terminal:R-OADM:80-WXC
+Terminal:R-OADM:80-WXC Mux/Dmx
+Terminal:R-OADM:SMR-1
+Terminal:R-OADM:SMR-2
+Terminal:R-OADM:16-WXC
+Terminal:R-OADM:SMR-9
+Terminal:R-OADM:SMR-20
+Terminal:Add/Drop:Auto
+Terminal:Add/Drop:OADM
+Terminal:Add/Drop:Mux/Demux
+Line:Auto:Auto
+Line:Pass Through:Auto
+Line:OSC Site:Auto
+Line:Add/Drop:Auto
+Line:Add/Drop:OADM
+Line:Add/Drop:Mux/Demux
+Line:Hub:Auto
+Line:Hub:WSS
+Line:Hub:80-WXC
+Line:Hub:80-WXC Mux/Dmx
+Line:Hub:SMR-1
+Line:Hub:SMR-2
+Line:Hub:SMR-9
+Line:Hub:SMR-20
+Line:Gain equalizer:Auto
+Line:Gain equalizer:WSS
+Line:Gain equalizer:80-WXC
+Line:Gain equalizer:SMR-1
+Line:Gain equalizer:SMR-2
+Line:Gain equalizer:16-WXC
+Line:Gain equalizer:SMR-9
+Line:Gain equalizer:SMR-20
+Line:Line amplifier:Auto
+Line:Line amplifier:Line
+Line:Line amplifier:Glass Through
+Line:R-OADM:Auto
+Line:R-OADM:WSS
+Line:R-OADM:80-WXC
+Line:R-OADM:80-WXC Mux/Dmx
+Line:R-OADM:SMR-1
+Line:R-OADM:SMR-2
+Line:R-OADM:16-WXC
+Line:R-OADM:SMR-9
+Line:R-OADM:SMR-20
+Multi-degree:Auto:Auto
+Multi-degree:OXC:Auto
+Multi-degree:OXC:40-WXC w/MESH-PP-4
+Multi-degree:OXC:40-WXC w/MESH-PP-8
+Multi-degree:OXC:80-WXC w/MESH-PP-4
+Multi-degree:OXC:80-WXC w/MESH-PP-8
+Multi-degree:OXC:SMR-2
+Multi-degree:OXC:Flexible
+Multi-degree:OXC:16-WXC
+Multi-degree:OXC:SMR-9
+Multi-degree:OXC:SMR-20
+Multi-degree:OIC:Auto
+Multi-degree:OIC:WSS/DMX
+Multi-degree:OIC:80-WXC Mux/Dmx

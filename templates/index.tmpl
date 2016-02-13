@@ -1,0 +1,134 @@
+<!doctype HTML>
+<html>
+<head>
+<title>CTP File Designer</title>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/SCL/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<script src="/SCL/js/jquery.js"></script>
+<script src="/SCL/js/bootstrap.js"></script>
+<script src="/SCL/js/dashboard.js"></script>
+<style>
+.btn-file {
+	position: relative;
+	overflow: hidden;
+}
+
+.btn-file input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	font-size: 100px;
+	text-align: right;
+	filter: alpha(opacity = 0);
+	opacity: 0;
+	outline: none;
+	background: white;
+	cursor: inherit;
+	display: block;
+}
+
+body {
+	padding-top: 20px;
+	font-family: Georgia;
+	font-size: 15px;
+	line-height: 1.428571429;
+	color: #333333;
+}
+
+.well {
+	font-family: Georgia;
+	font-size: 15px;
+	line-height: 1.428571429;
+	color: #333333;
+
+}
+</style>
+</head>
+
+
+<body>
+	<div class="container">
+
+		<<@@ $navbar @@>>
+		<div class="panel panel-info">
+			<div class="panel-heading">Upload the Input Excel File</div>
+			<div class="panel-body">
+				<div class="well">
+					<form class="form-horizontal" action="/cgi-bin/SCL/excelUploadValidate.cgi" method="post" enctype="multipart/form-data" id="excelValidationForm">
+						<fieldset>
+
+							<!-- Form Name -->
+							<!-- Appended Input-->
+							<div class="form-group">
+								<label class="col-md-4 control-label" for="appendedtext">CISCO ID</label>
+								<div class="col-md-4">
+									<div class="input-group">
+										<input id="appendedtext" name="appendedtext" class="form-control" value="<<@@ $userid @@>>" type="text" required=""> <span class="input-group-addon">@cisco.com</span>
+									</div>
+
+								</div>
+							</div>
+							
+							<div class="form-group">
+								<label class="col-md-4 control-label" for="excelInput">Browse Excel Input File</label> 
+								<div class="col-md-4">
+									<div class="input-group">
+										<input id="excelInput" type="file" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel" style="display:none" class="input-file" type="file" name="excelInput">								
+<!-- 										<input id="excelInputText" type="text"> <a class="btn btn-primary" onclick="$('input[id=excelInput]').click();">Browse</a> -->
+										<input id="excelInputText" name="excelInputText" class="form-control" type="text"> 
+										<span class="input-group-btn">
+												<button class="btn btn-secondary" onclick="$('input[id=excelInput]').click();" type="button">Browse</button>
+										</span>
+									</div>
+								</div>
+							</div>
+							
+
+
+							<!-- Multiple Radios -->
+							<div class="form-group">
+								<label class="col-md-4 control-label" for="designmethod">File to be generated</label>
+								<div class="col-md-4">
+									<div class="radio">
+										<label for="designmethod-0"> <input type="radio" name="designmethod" id="designmethod-0" value="mpz" checked="checked"> MPZ Design File
+										</label>
+									</div>
+									<div class="radio">
+										<label for="designmethod-1"> <input type="radio" name="designmethod" id="designmethod-1" value="xml"> CTP XML File
+										</label>
+									</div>
+								</div>
+							</div>
+
+							<!-- Button (Double) -->
+							<div class="form-group">
+								<label class="col-md-4 control-label" for="Submit"></label>
+								<div class="col-md-8">
+									<input class="btn btn-primary" type="submit" name="Submit" value="Submit" /> <input class="btn btn-default" type="reset" value="Reset">
+								</div>
+							</div>
+
+						</fieldset>
+					</form>
+					<div id="alerts"></div>
+				</div>
+				<div id='loadingmessage' style='display: none' align='center'>
+					<p>Processing uploaded file.........</p>
+					<img src='/SCL/images/ajax-loader.gif' />
+				</div>
+				<div class="panel panel-danger" id="excelErrors">
+					<div class="panel-heading">Below issues observed in the Input Excel File. Please correct and upload again</div>
+					<div class="panel-body" id='panelBodyError'></div>
+					<div align='center'>
+						<button type="button" class="btn btn-danger" id='uploadAgain'>Upload Again</button>
+					</div>
+					<br>
+				</div>
+			</div>
+</body>
+
+</html>

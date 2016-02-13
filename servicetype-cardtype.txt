@@ -1,0 +1,1401 @@
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,Unprotected,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,Unprotected,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,Client1+1,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,Client1+1,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3BFalco100G
+100GE,Transponder,200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3BFalco100G
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,Unprotected,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,Unprotected,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,Client1+1,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,Client1+1,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/SD-FEC_20,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3
+100GE,Transponder,100GS-CK-LC - w/EFEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/EFEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,Unprotected,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,Unprotected,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,Client1+1,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,Client1+1,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/SD-FEC_20,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3B
+100GE,Transponder,200G-CK-LC(100G mode only) - w/FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3B
+100GE,Transponder,200G-CK-LC + MR-MXP  - w/SD-FEC_20,Unprotected,SR-1(CPAK-100G-SR10),Titano3BFalco
+100GE,Transponder,200G-CK-LC + MR-MXP  - w/SD-FEC_20,Unprotected,LR-1(CPAK-100G-LR4),Titano3BFalco
+100GE,Transponder,200G-CK-LC + MR-MXP  - w/SD-FEC_20,PSM-Channel,SR-1(CPAK-100G-SR10),Titano3BFalco
+100GE,Transponder,200G-CK-LC + MR-MXP  - w/SD-FEC_20,PSM-Channel,LR-1(CPAK-100G-LR4),Titano3BFalco
+100GE,Transponder,100G-LC-C - w/FEC,Unprotected,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/FEC,Client1+1,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/EFEC,Unprotected,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/EFEC,Client1+1,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/EFEC,PSM-Channel,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/HG-FEC,Unprotected,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/HG-FEC,Client1+1,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-LC-C - w/HG-FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR10),Titano
+100GE,Transponder,100G-ME-C - w/FEC,Unprotected,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-ME-C - w/FEC,Client1+1,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-ME-C - w/FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-ME-C - w/EFEC,Unprotected,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-ME-C - w/EFEC,Client1+1,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-ME-C - w/EFEC,PSM-Channel,SR-1(ONS-CXP-100G-SR10),TitanoME
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Unprotected,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,Client1+1,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),TitanoFumaiolo
+100GE,Transponder,100G-LC-C + CFP-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),TitanoFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-ME-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),TitanoMEFumaiolo
+100GE,Transponder,100G-CK-LC-C - w/FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,Y-Cable,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/FEC,Y-Cable,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Unprotected,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Unprotected,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Client1+1,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Client1+1,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Y-Cable,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/EFEC,Y-Cable,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Y-Cable,SR-1(CPAK-100G-SR10),Titano2
+100GE,Transponder,100G-CK-LC-C - w/HG-FEC,Y-Cable,LR-1(CPAK-100G-LR4),Titano2
+100GE,Transponder,100G-CK-ME-C - w/FEC,Unprotected,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,Unprotected,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,Client1+1,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,Client1+1,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,Y-Cable,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/FEC,Y-Cable,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Unprotected,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Unprotected,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Client1+1,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Client1+1,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,PSM-Channel,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,PSM-Channel,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Y-Cable,SR-1(CPAK-100G-SR10),Titano2ME
+100GE,Transponder,100G-CK-ME-C - w/EFEC,Y-Cable,LR-1(CPAK-100G-LR4),Titano2ME
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Unprotected,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,Client1+1,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-LC-C + CFP-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),Titano2Fumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Unprotected,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Y-Cable,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,Client1+1,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/FEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Unprotected,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Y-Cable,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,Client1+1,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100GE-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-CK-ME-C + CFP-LC - w/EFEC,PSM-Channel,LR-1(ONS-CC-100G-LR4),Titano2MEFumaiolo
+100GE,Transponder,100G-LC-C + ASR - w/FEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/FEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/EFEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/EFEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/EFEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/HG-FEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/HG-FEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR - w/HG-FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR1
+100GE,Transponder,100G-LC-C + ASR2 - w/FEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/FEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/EFEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/EFEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/EFEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/HG-FEC,Unprotected,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/HG-FEC,Client1+1,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Transponder,100G-LC-C + ASR2 - w/HG-FEC,PSM-Channel,SR-1(ONS-CXP-100G-SR-10),TitanoASR2
+100GE,Line Card,1-100GE-DWDM - w/EFEC,Unprotected,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/EFEC,Client1+1,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/EFEC,PSM-Channel,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/FEC,Unprotected,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/FEC,Client1+1,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/FEC,PSM-Channel,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/HG-FEC,Unprotected,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/HG-FEC,Client1+1,,Torngat
+100GE,Line Card,1-100GE-DWDM - w/HG-FEC,PSM-Channel,,Torngat
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Unprotected,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,PSM-Channel,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20,Client1+1,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Unprotected,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,PSM-Channel,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC,Client1+1,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Unprotected,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,PSM-Channel,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,SR-1(QSFP-40G-SR4),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC,Client1+1,LR-1(QSFP-4x10G-LR),Titano3BFalcoMxp100G
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,ER(ONS-SC+-10G-ER),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,ZR(ONS-SC+-10G-ZR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(QSFP-40G-SR4),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Unprotected,LR-1(QSFP-4x10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,ER(ONS-SC+-10G-ER),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,ZR(ONS-SC+-10G-ZR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,SR-1(QSFP-40G-SR4),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Client1+1,LR-1(QSFP-4x10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,ER(ONS-SC+-10G-ER),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10G_C),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,SR-1(QSFP-40G-SR4),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,Y-Cable,LR-1(QSFP-4x10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,ER(ONS-SC+-10G-ER),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(QSFP-40G-SR4),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20,PSM-Channel,LR-1(QSFP-4x10G-LR),Titano3BCarpegnaFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,SR-1(QSFP-40G-SR4),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,Unprotected,LR-1(QSFP-4x10G-LR),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,SR-1(QSFP-40G-SR4),Titano3BFalcoFalco
+10GE,Transponder,200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20,PSM-Channel,LR-1(QSFP-4x10G-LR),Titano3BFalcoFalco
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-SR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,ER(ONS-SC+-10G-ER),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,LR-1(ONS-SC+-10G-LR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,ZR(ONS-SC+-10G-ZR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,DWDM(ONS-SC+-10G_C),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-1),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-3),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-5),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-7),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Unprotected,CWDM(ONS-SC+-10G-xxxx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-SR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,ER(ONS-SC+-10G-ER),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,LR-1(ONS-SC+-10G-LR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,ZR(ONS-SC+-10G-ZR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,DWDM(ONS-SC+-10G_C),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-1),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-3),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-5),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-7),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Client1+1,CWDM(ONS-SC+-10G-xxxx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-SR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,ER(ONS-SC+-10G-ER),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,LR-1(ONS-SC+-10G-LR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,ZR(ONS-SC+-10G-ZR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,DWDM(ONS-SC+-10G_C),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-SR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,ER(ONS-SC+-10G-ER),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,LR-1(ONS-SC+-10G-LR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,ZR(ONS-SC+-10G-ZR),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10G_C),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Carpegna
+10GE,Transponder,10X10G-LC - Txp Mode,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Carpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano3BCarpegna
+10GE,Transponder,200G-CK-LC + 10X10G-LC - w/EFEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano3BCarpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-SR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,ER(ONS-SC+-10G-ER),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,LR-1(ONS-SC+-10G-LR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,ZR(ONS-SC+-10G-ZR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,DWDM(ONS-SC+-10G_C),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-SR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,ER(ONS-SC+-10G-ER),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,LR-1(ONS-SC+-10G-LR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,ZR(ONS-SC+-10G-ZR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,DWDM(ONS-SC+-10G_C),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,ER(ONS-SC+-10G-ER),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano3Carpegna
+10GE,Transponder,100GS-CK-LC + 10X10G-LC - w/SD-FEC_20,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano3Carpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,ER(ONS-SC+-10G-ER),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),TitanoCarpegna
+10GE,Transponder,100G-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),TitanoCarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,ER(ONS-SC+-10G-ER),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),TitanoMECarpegna
+10GE,Transponder,100G-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),TitanoMECarpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/EFEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano2Carpegna
+10GE,Transponder,100G-CK-LC-C + 10X10G-LC - w/HG-FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano2Carpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/FEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Unprotected,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Client1+1,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,Y-Cable,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-SR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,ER(ONS-SC+-10G-ER),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,LR-1(ONS-SC+-10G-LR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,ZR(ONS-SC+-10G-ZR),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,DWDM(ONS-SC+-10G_C),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Titano2MECarpegna
+10GE,Transponder,100G-CK-ME-C + 10X10G-LC - w/EFEC,PSM-Channel,CWDM(ONS-SC+-10G-xxxx),Titano2MECarpegna
+10GE,Transponder,WSE - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-SR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,ER(ONS-SC+-10G-ER),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,LR-1(ONS-SC+-10G-LR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,ZR(ONS-SC+-10G-ZR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,DWDM(ONS-SC+-10G-xx.xx),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,DWDM(ONS-SC+-10GEP_xx.x),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,DWDM(ONS-SC+-10G_C),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-1),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-3),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-5),Rahasya
+10GE,Transponder,WSE - Txp Mode,Unprotected,SR-1(ONS-SC+-10G-CU-7),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-SR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,ER(ONS-SC+-10G-ER),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,LR-1(ONS-SC+-10G-LR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,ZR(ONS-SC+-10G-ZR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,DWDM(ONS-SC+-10G-xx.xx),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,DWDM(ONS-SC+-10GEP_xx.x),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,DWDM(ONS-SC+-10G_C),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-1),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-3),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-5),Rahasya
+10GE,Transponder,WSE - Txp Mode,Client1+1,SR-1(ONS-SC+-10G-CU-7),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-SR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,ER(ONS-SC+-10G-ER),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,LR-1(ONS-SC+-10G-LR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,ZR(ONS-SC+-10G-ZR),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,DWDM(ONS-SC+-10G-xx.xx),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,DWDM(ONS-SC+-10GEP_xx.x),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,DWDM(ONS-SC+-10G_C),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-1),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-3),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-5),Rahasya
+10GE,Transponder,WSE - Txp Mode,Y-Cable,SR-1(ONS-SC+-10G-CU-7),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-SR),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,ER(ONS-SC+-10G-ER),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,LR-1(ONS-SC+-10G-LR),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,ZR(ONS-SC+-10G-ZR),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10G-xx.xx),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10GEP_xx.x),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,DWDM(ONS-SC+-10G_C),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-1),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-3),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-5),Rahasya
+10GE,Transponder,WSE - Txp Mode,PSM-Channel,SR-1(ONS-SC+-10G-CU-7),Rahasya
+10GE,Transponder,AR-MXP - TXP (HR),Unprotected,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Unprotected,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Unprotected,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Client1+1,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Client1+1,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Client1+1,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Y-Cable,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Y-Cable,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_MXP
+10GE,Transponder,AR-MXP - TXP (HR),PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_MXP
+10GE,Transponder,AR-XP - TXP (HR),Unprotected,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Unprotected,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Unprotected,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Client1+1,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Client1+1,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Client1+1,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Y-Cable,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Y-Cable,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Roccianera_AR_XP
+10GE,Transponder,AR-XP - TXP (HR),PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Roccianera_AR_XP
+10GE,Transponder,10GE_XPE,Unprotected,10GBase-LR(ONS-XC-10G-S1),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Unprotected,10GBase-ER(ONS-XC-10G-I2),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Client1+1,10GBase-LR(ONS-XC-10G-S1),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Client1+1,10GBase-ER(ONS-XC-10G-I2),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Thurweiser10GEXP
+10GE,Transponder,10GE_XPE,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Thurweiser10GEXP
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Mixed Mode,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,DWDM(ONS-XC-10G-xx.x),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Catinaccio
+10GE,Transponder,OTU2-XP - Txp Mode,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Catinaccio
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/FEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,DWDM(ONS-XC-10GC),Presolana10G
+10GE,Transponder,TXP-MR-10EX-C - w/EFEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Presolana10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/EFEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,DWDM(ONS-XC-10G-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK MXP - w/FEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),Castore4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/EFEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Unprotected,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Client1+1,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+Use of uninitialized value $txpType in string eq at supported_servicetypes_QTP_extractor.cgi line 38.
+Use of uninitialized value $txpType in string eq at supported_servicetypes_QTP_extractor.cgi line 38.
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,Y-Cable,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,10GBase-LR(ONS-XC-10G-S1),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,10GBase-ER(ONS-XC-10G-I2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,10GBase-SR(ONS-XC-10G-SR-MM),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,10GBase-ZR(ONS-XC-10G-L2),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,DWDM(ONS-XC-10G-xx.x),CastoreME4X10G
+10GE,Transponder,40G CP-DQPSK ME MXP - w/FEC,PSM-Channel,DWDM(ONS-XC-10G-EP-xx.x),CastoreME4X10G
+10GE,Line Card,10GE-ITU - w/EFEC,Unprotected,,Rainbow
+10GE,Line Card,10GE-ITU - w/EFEC,Client1+1,,Rainbow
+10GE,Line Card,10GE-ITU - w/EFEC,PSM-Channel,,Rainbow
+10GE,Line Card,10GE-ITU - w/FEC,Unprotected,,Rainbow
+10GE,Line Card,10GE-ITU - w/FEC,Client1+1,,Rainbow
+10GE,Line Card,10GE-ITU - w/FEC,PSM-Channel,,Rainbow
+10GE,Line Card,10GE-ITU - w/o FEC,Unprotected,,Rainbow
+10GE,Line Card,10GE-ITU - w/o FEC,Client1+1,,Rainbow
+10GE,Line Card,10GE-ITU - w/o FEC,PSM-Channel,,Rainbow
+10GE,Line Card,4-10GE-ITU - w/EFEC,Unprotected,,Rodan
+10GE,Line Card,4-10GE-ITU - w/EFEC,Client1+1,,Rodan
+10GE,Line Card,4-10GE-ITU - w/EFEC,PSM-Channel,,Rodan
+10GE,Line Card,4-10GE-ITU - w/FEC,Unprotected,,Rodan
+10GE,Line Card,4-10GE-ITU - w/FEC,Client1+1,,Rodan
+10GE,Line Card,4-10GE-ITU - w/FEC,PSM-Channel,,Rodan
+10GE,Line Card,4-10GE-ITU - w/o FEC,Unprotected,,Rodan
+10GE,Line Card,4-10GE-ITU - w/o FEC,Client1+1,,Rodan
+10GE,Line Card,4-10GE-ITU - w/o FEC,PSM-Channel,,Rodan
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/FEC,Unprotected,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/FEC,Y-Cable,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/FEC,Client1+1,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/FEC,PSM-Channel,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/EFEC,Unprotected,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/EFEC,Y-Cable,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/EFEC,Client1+1,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/EFEC,PSM-Channel,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/o FEC,Unprotected,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/o FEC,Y-Cable,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/o FEC,Client1+1,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-SC+-10G_xx.x - w/o FEC,PSM-Channel,,ONS-SC+-10G_xx.x
+10GE,Pluggable Card,ONS-XC-10G_C - w/FEC,Unprotected,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/FEC,Y-Cable,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/FEC,Client1+1,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/FEC,PSM-Channel,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/EFEC,Unprotected,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/EFEC,Y-Cable,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/EFEC,Client1+1,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/EFEC,PSM-Channel,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/o FEC,Unprotected,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/o FEC,Y-Cable,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/o FEC,Client1+1,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G_C - w/o FEC,PSM-Channel,,ONS-XC-10G_C
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/FEC,Unprotected,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/FEC,Y-Cable,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/FEC,Client1+1,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/FEC,PSM-Channel,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/EFEC,Unprotected,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/EFEC,Y-Cable,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/EFEC,Client1+1,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/EFEC,PSM-Channel,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/o FEC,Unprotected,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/o FEC,Y-Cable,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/o FEC,Client1+1,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,ONS-XC-10G-EPxx.x - w/o FEC,PSM-Channel,,ONS-XC-10G-EPxx.x
+10GE,Pluggable Card,DWDM-XFP - w/FEC,Unprotected,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/FEC,Client1+1,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/FEC,PSM-Channel,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/o FEC,Unprotected,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/o FEC,Client1+1,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/o FEC,PSM-Channel,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/EFEC,Unprotected,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/EFEC,Client1+1,,DwdmXFP
+10GE,Pluggable Card,DWDM-XFP - w/EFEC,PSM-Channel,,DwdmXFP
+10GE,Pluggable Card,DWDM-X2,Unprotected,,DwdmX2
+10GE,Pluggable Card,DWDM-X2,Client1+1,,DwdmX2
+10GE,Pluggable Card,DWDM-X2,PSM-Channel,,DwdmX2
+10GE,Pluggable Card,DWDM-XENPAK,Unprotected,,Xenpak
+10GE,Pluggable Card,DWDM-XENPAK,Client1+1,,Xenpak
+10GE,Pluggable Card,DWDM-XENPAK,PSM-Channel,,Xenpak

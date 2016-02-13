@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Project">
+		<xs:annotation>
+			<xs:documentation>TBD</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Platform">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="ONS15454"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="MeasurementUnit">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Km"/>
+							<xs:enumeration value="Miles"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="Release">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="r80"/>
+							<xs:enumeration value="r85"/>
+							<xs:enumeration value="r90"/>
+							<xs:enumeration value="r91"/>
+							<xs:enumeration value="r92"/>
+							<xs:enumeration value="r921"/>
+							<xs:enumeration value="r93"/>
+							<xs:enumeration value="r94"/>
+							<xs:enumeration value="r9603"/>
+							<xs:enumeration value="r98"/>
+							<xs:enumeration value="r100"/>
+							<xs:enumeration value="r101"/>
+							<xs:enumeration value="r103"/>
+							<xs:enumeration value="r105"/>
+							<xs:enumeration value="r1051"/>
+							<xs:enumeration value="r1052"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="Layout">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="ANSI"/>
+							<xs:enumeration value="ETSI"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="Network">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="C-Band-Rule">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="None"/>
+										<xs:enumeration value="C 96Chs 50 GHz(+1dBm/Ch)"/>
+										<xs:enumeration value="C 80Chs 50 GHz(+1dBm/Ch)"/>
+										<xs:enumeration value="C 80Chs 50 GHz(-2dBm/Ch)"/>
+										<xs:enumeration value="C 72Chs 50 GHz(+1dBm/Ch)"/>
+										<xs:enumeration value="C 72Chs 50 GHz(-2dBm/Ch)"/>
+										<xs:enumeration value="C 64Chs 50 GHz(+2dBm/Ch)"/>
+										<xs:enumeration value="C 64Chs 50 GHz(-1dBm/Ch)"/>
+										<xs:enumeration value="C 40Chs 100 GHz(+4dBm/Ch)"/>
+										<xs:enumeration value="C 40Chs 100 GHz(+1dBm/Ch)"/>
+										<xs:enumeration value="C 32Chs 100 GHz(+5dBm/Ch)"/>
+										<xs:enumeration value="C 32Chs 100 GHz(+2dBm/Ch)"/>
+										<xs:enumeration value="C 20Chs 100 GHz(+7dBm/Ch)"/>
+										<xs:enumeration value="C 20Chs 100 GHz(+4dBm/Ch)"/>
+										<xs:enumeration value="C 16Chs 100 GHz(+8dBm/Ch)"/>
+										<xs:enumeration value="C 16Chs 100 GHz(+5dBm/Ch)"/>
+										<xs:enumeration value="C 8Chs 100 GHz(+8dBm/Ch)"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="L-Band-Rule">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Expand"/>
+										<xs:enumeration value="None"/>
+										<xs:enumeration value="L 32Chs 100 GHz(+5dBm/Ch)"/>
+										<xs:enumeration value="L 32Chs 100 GHz(+2dBm/Ch)"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="NodeType" minOccurs="0" maxOccurs="1">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="LEGACY MSTP 15454 ONS"/>
+										<xs:enumeration value="HYBRID 15454 ONS"/>
+										<xs:enumeration value="FLEX NG-DWDM"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Sites">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Site" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Position" minOccurs="0" maxOccurs="1">
+														<xs:complexType>
+															<xs:attribute name="X" type="xs:integer" use="required"/>
+															<xs:attribute name="Y" type="xs:integer" use="required"/>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Structure" minOccurs="1" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Terminal"/>
+																<xs:enumeration value="Terminal +"/>
+																<xs:enumeration value="Line"/>
+																<xs:enumeration value="Line +"/>
+																<xs:enumeration value="Multi-degree"/>
+																<xs:enumeration value="PSM Terminal - Optical Path Protection"/>
+																<xs:enumeration value="PSM Terminal - Multiple Section Protection"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Functionality" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="Pass Through"/>
+																<xs:enumeration value="OSC site"/>
+																<xs:enumeration value="Add/Drop"/>
+																<xs:enumeration value="Hub"/>
+																<xs:enumeration value="Gain equalizer"/>
+																<xs:enumeration value="R-OADM"/>
+																<xs:enumeration value="Line amplifier"/>
+																<xs:enumeration value="OXC"/>
+																<xs:enumeration value="OIC"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Type" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="OADM"/>
+																<xs:enumeration value="Mux/Demux"/>
+																<xs:enumeration value="WSS"/>
+																<xs:enumeration value="Glass Through"/>
+																<xs:enumeration value="Line"/>
+																<xs:enumeration value="WSS/DMX"/>
+																<xs:enumeration value="40-WXC w/MESH-PP-4"/>
+																<xs:enumeration value="40-WXC w/MESH-PP-8"/>
+																<xs:enumeration value="80-WXC Mux/Dmx"/>
+																<xs:enumeration value="80-WXC w/MESH-PP-4"/>
+																<xs:enumeration value="80-WXC w/MESH-PP-8"/>
+																<xs:enumeration value="80-WXC"/>
+																<xs:enumeration value="Flexible"/>
+																<xs:enumeration value="SMR-1"/>
+																<xs:enumeration value="SMR-2"/>
+																<xs:enumeration value="SMR-9"/>
+																<xs:enumeration value="SMR-20"/>
+																<xs:enumeration value="16-WXC"/>
+																<xs:enumeration value="16-WXC_PP"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Chassis" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="M12 Chassis"/>
+																<xs:enumeration value="M6 Chassis"/>
+																<xs:enumeration value="M2 Chassis"/>
+																<xs:enumeration value="M15 Chassis"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Power" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="AC Power"/>
+																<xs:enumeration value="DC Power"/>
+																<xs:enumeration value="DC40 Power"/>
+																<xs:enumeration value="AC2 Power"/>
+																<xs:enumeration value="DC20 Power"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="AcPowerCable" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="ARG"/>
+																<xs:enumeration value="AUS"/>
+																<xs:enumeration value="india"/>
+																<xs:enumeration value="Japan"/>
+																<xs:enumeration value="KOR"/>
+																<xs:enumeration value="China"/>
+																<xs:enumeration value="Data Centre"/>
+																<xs:enumeration value="V 110"/>
+																<xs:enumeration value="V 220"/>
+																<xs:enumeration value="UK"/>
+																<xs:enumeration value="EU"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="RedundantController" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Yes"/>
+																<xs:enumeration value="No"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="ScalableUptoDegree" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:integer">
+																<xs:enumeration value="4"/>
+																<xs:enumeration value="8"/>
+																<xs:enumeration value="12"/>
+																<xs:enumeration value="16"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="EvolvedMesh" type="xs:boolean" minOccurs="0" maxOccurs="1">
+													</xs:element>
+													<xs:element name="NodeProtection" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Same Shelf"/>
+																<xs:enumeration value="Separated Shelves"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Mpo16ToMpo8" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="MF-2MPO-ADP"/>
+																<xs:enumeration value="MPO16To2MPO8Cable"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="TxpMxpXpInOTS" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="Yes"/>
+																<xs:enumeration value="No"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="M6M2ControllerType" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="TNC/TSC"/>
+																<xs:enumeration value="TNC-E/TSC-E"/>
+																<xs:enumeration value="TNCS-O"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="M15ControllerType" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="TNC-S"/>
+																<xs:enumeration value="TNCS-O"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="MFUnit" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="MF-6RU/MF-10RU"/>
+																<xs:enumeration value="MF1-RU"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="DegreeMeshType" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="DEG-5/UPG-4"/>
+																<xs:enumeration value="PPMESH8-5AD"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="RedundantPowerScheme" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Auto"/>
+																<xs:enumeration value="1+1"/>
+																<xs:enumeration value="2+1"/>
+																<xs:enumeration value="2+2"/>
+																<xs:enumeration value="3+1"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Sides" minOccurs ="0">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="Side" minOccurs="0" maxOccurs="18">
+																<xs:complexType>
+																	<xs:attribute name="Name" type="SideType" use="required"/>
+																	<xs:attribute name="ColorlessPorts"  type="xs:integer"  default="0"/>
+																	<xs:attribute name="Colorless100GPorts" type="xs:integer" default="0"/>
+																	<xs:attribute name="OmnidirectionalSide" default="Auto">
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="Auto"/>
+																					<xs:enumeration value="Yes"/>
+																					<xs:enumeration value="No"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+																		<xs:attribute name="OmniSideType" default="Auto" >
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="Auto"/>
+																					<xs:enumeration value="4X4COFS"/>
+																					<xs:enumeration value="16-WXC"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+																		<xs:attribute name="ContentionlessSide" default="Auto">
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="Auto"/>
+																					<xs:enumeration value="Yes"/>
+																					<xs:enumeration value="No"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+																		<xs:attribute name="ContentionlessSideType" default="Auto" >
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="Auto"/>
+																					<xs:enumeration value="12-AD-CCOFS"/>
+																					<xs:enumeration value="16-AD-CCOFS"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+																		<xs:attribute name="InterleaverType" default="Auto" >
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="Auto"/>
+																					<xs:enumeration value="MpoCable"/>
+																					<xs:enumeration value="MD-48-CM"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+															       </xs:complexType>
+																</xs:element>	
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Fibres">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Duct" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Type" minOccurs="0" maxOccurs="1">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="G652-SMF - 28E"/>
+																<xs:enumeration value="True Wave Reach"/>
+																<xs:enumeration value="Dispersion Shifted"/>
+																<xs:enumeration value="Metro-Core"/>
+																<xs:enumeration value="True-Wave Plus"/>
+																<xs:enumeration value="True-Wave Minus"/>
+																<xs:enumeration value="True-Wave Classic"/>
+																<xs:enumeration value="Free-Light"/>
+																<xs:enumeration value="LS"/>
+																<xs:enumeration value="Tera-Light"/>
+																<xs:enumeration value="G652-SMF"/>
+																<xs:enumeration value="ELEAF"/>
+																<xs:enumeration value="True Wave RS"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="Source">
+														<xs:complexType>
+															<xs:attribute name="Site" type="xs:string" use="required"/>
+															<xs:attribute name="Side" type="SideType" use="required"/>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Destination">
+														<xs:complexType>
+															<xs:attribute name="Site" type="xs:string" use="required"/>
+															<xs:attribute name="Side" type="SideType" use="required"/>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Length" type="xs:double"/>
+													<xs:element name="Loss" type="xs:double" minOccurs="0" maxOccurs="1"/>
+													<xs:element name="Pmd" type="xs:double" minOccurs="0" maxOccurs="1"/>
+													<xs:element name="CdCBand" type="xs:double" minOccurs="0" maxOccurs="1"/>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="TrafficSubnets" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="TrafficSubnet" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SubnetTopology" type="SubnetTopo"/>
+													<xs:element name="Ducts" type="xs:string"/>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Demands">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="PointToPoint" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Source" type="xs:string"/>
+													<xs:element name="Destination" type="xs:string"/>
+													<xs:element name="Bypass" type="xs:string" minOccurs="0" maxOccurs="1"/>
+													<xs:element name="Service" type="TrafficType"/>
+													<xs:element name="CardForcing" type="CardType" minOccurs="0" maxOccurs="1"/>
+													<xs:element name="Protection" type="ProtectionType"/>
+													<xs:element name="Hierarchy" type="HierarchyType"/>
+													<xs:element name="PresentChannels" type="xs:integer"/>
+													<xs:element name="ForecastChannels" type="xs:integer" minOccurs="0"/>
+													<xs:element name="SrcColorless" minOccurs="0" maxOccurs="1">
+													<xs:simpleType>
+														<xs:restriction base="xs:string">
+														 	<xs:enumeration value="Auto"/>
+															<xs:enumeration value="Yes"/>
+															<xs:enumeration value="No"/>
+														</xs:restriction>
+													</xs:simpleType>
+												</xs:element>
+												<xs:element name="DstColorless" minOccurs="0" maxOccurs="1">
+													<xs:simpleType>
+														<xs:restriction base="xs:string">
+														 	<xs:enumeration value="Auto"/>
+															<xs:enumeration value="Yes"/>
+															<xs:enumeration value="No"/>
+														</xs:restriction>
+													</xs:simpleType>
+												</xs:element>
+												<xs:element name="SrcOmniSide"  type="OmniContentionlessSideType" minOccurs="0" maxOccurs="1"/>
+												<xs:element name="DstOmniSide" type="OmniContentionlessSideType" minOccurs="0" maxOccurs="1"/>
+												<xs:element name="SrcContentionlessSide" type="OmniContentionlessSideType" minOccurs="0" maxOccurs="1"/>
+												<xs:element name="DstContentionlessSide" type="OmniContentionlessSideType" minOccurs="0" maxOccurs="1"/>
+												<xs:element name="PathConstraints" minOccurs="0" maxOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="DuctName" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+															<xs:element name="SiteName" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>		
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="optional"/>
+												<xs:attribute name="Encryption" use="optional" default="No" >
+													<xs:simpleType>
+														<xs:restriction base="xs:string">
+															<xs:enumeration value="Yes"/>
+															<xs:enumeration value="No"/>
+														</xs:restriction>
+													</xs:simpleType>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="RoadmGroup" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="TrafficSubnet" type="xs:string"/>
+													<xs:element name="AddDropSites" type="xs:string"/>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="RoadmDemand" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="GroupName" type="xs:string"/>
+													<xs:element name="TrafficType" type="RoadmTrafficType"/>
+													<xs:element name="RoutingStratergy" type="RoutingStrategy"/>
+													<xs:element name="HubSite" type="xs:string"/>
+													<xs:element name="Omnidirection" type="xs:string"/>
+													<xs:element name="Colorless" type="xs:string"/>
+													<xs:element name="Contentionless" type="xs:string" minOccurs="0" maxOccurs="1"/>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="RoadmRequest" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="GroupName" type="xs:string"/>
+													<xs:element name="DemandName" type="xs:string"/>
+													<xs:element name="Service" type="TrafficType"/>
+													<xs:element name="CardForcing" type="CardType" minOccurs="0" maxOccurs="1"/>
+													<xs:element name="Protections" type="xs:string"/>
+												</xs:sequence>
+												<xs:attribute name="Name" type="xs:string" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="CreatedBy" type="xs:string" use="optional"/>
+			<xs:attribute name="Customer" type="xs:string" use="optional"/>
+			<xs:attribute name="E-mail" type="xs:string" use="required"/>
+			<xs:attribute name="ProjectName" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="SubnetTopo">
+		<xs:annotation>
+			<xs:documentation>Supported Subnet Topologies</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Ring"/>
+			<xs:enumeration value="Linear"/>
+			<xs:enumeration value="Mesh"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="RoadmTrafficType">
+		<xs:annotation>
+			<xs:documentation>Supported traffic types for ROADM</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Hub"/>
+			<xs:enumeration value="Ring"/>
+			<xs:enumeration value="Meshed"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="RoutingStrategy">
+		<xs:annotation>
+			<xs:documentation>Supported routing types for ROADM</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Unprotected Minimum Hop"/>
+			<xs:enumeration value="Unprotected Optimum Path"/>
+			<xs:enumeration value="Protected"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TrafficType">
+		<xs:annotation>
+			<xs:documentation>Supported traffic types</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="OC-3"/>
+			<xs:enumeration value="OC-12"/>
+			<xs:enumeration value="OC-48"/>
+			<xs:enumeration value="OC-192"/>
+			<xs:enumeration value="OC-768"/>
+			<xs:enumeration value="STM1"/>
+			<xs:enumeration value="STM4"/>
+			<xs:enumeration value="STM16"/>
+			<xs:enumeration value="STM64"/>
+			<xs:enumeration value="STM256"/>
+			<xs:enumeration value="10GE"/>
+			<xs:enumeration value="40GE"/>
+			<xs:enumeration value="10GE_WAN"/>
+			<xs:enumeration value="Gigabit_Ethernet"/>
+			<xs:enumeration value="2.5G_MultiRate"/>
+			<xs:enumeration value="ESCON"/>
+			<xs:enumeration value="Fibre_Channel"/>
+			<xs:enumeration value="Fibre_Channel_2G"/>
+			<xs:enumeration value="Fibre_Channel_8G"/>
+			<xs:enumeration value="Fibre_Channel_10G"/>
+			<xs:enumeration value="D1_Video"/>
+			<xs:enumeration value="HDTV"/>
+			<xs:enumeration value="2R_Any_Rate"/>
+			<xs:enumeration value="DVB_ASI"/>
+			<xs:enumeration value="FAST_ETHERNET_100Mbps"/>
+			<xs:enumeration value="1G-FICON"/>
+			<xs:enumeration value="2G-FICON"/>
+			<xs:enumeration value="4G-FICON"/>
+			<xs:enumeration value="8G-FICON"/>
+			<xs:enumeration value="10G-FICON"/>
+			<xs:enumeration value="SDI"/>
+			<xs:enumeration value="DV-6000"/>
+			<xs:enumeration value="FC-4G"/>
+			<xs:enumeration value="15530_2.5-Gbps_Aggregated"/>
+			<xs:enumeration value="15530_10-Gbps_Aggregated"/>
+			<xs:enumeration value="15530_MR_Transport"/>
+			<xs:enumeration value="15530_Data_MXP"/>
+			<xs:enumeration value="ISC-Compat"/>
+			<xs:enumeration value="ISC-Peer-2R"/>
+			<xs:enumeration value="ISC-Peer-1G"/>
+			<xs:enumeration value="ISC-Peer-2G"/>
+			<xs:enumeration value="Sysplex-ETR"/>
+			<xs:enumeration value="Sysplex-CLO"/>
+			<xs:enumeration value="STS1"/>
+			<xs:enumeration value="STS3c"/>
+			<xs:enumeration value="STS6c"/>
+			<xs:enumeration value="STS9c"/>
+			<xs:enumeration value="STS12c"/>
+			<xs:enumeration value="STS18c"/>
+			<xs:enumeration value="STS24c"/>
+			<xs:enumeration value="STS36c"/>
+			<xs:enumeration value="STS48c"/>
+			<xs:enumeration value="STS192c"/>
+			<xs:enumeration value="GESTS24"/>
+			<xs:enumeration value="VC4"/>
+			<xs:enumeration value="VC4_2c"/>
+			<xs:enumeration value="VC4_3c"/>
+			<xs:enumeration value="VC4_4c"/>
+			<xs:enumeration value="VC4_6c"/>
+			<xs:enumeration value="VC4_8c"/>
+			<xs:enumeration value="VC4_12c"/>
+			<xs:enumeration value="VC4_16c"/>
+			<xs:enumeration value="VC4_64c"/>
+			<xs:enumeration value="GEVC4_8c"/>
+			<xs:enumeration value="G709-FEC2.5"/>
+			<xs:enumeration value="G709-NO_FEC2.5"/>
+			<xs:enumeration value="G709-EFEC2.5"/>
+			<xs:enumeration value="G709-FEC10"/>
+			<xs:enumeration value="G709-NO_FEC10"/>
+			<xs:enumeration value="G709-EFEC10"/>
+			<xs:enumeration value="G709-EFEC40"/>
+			<xs:enumeration value="G709-FEC40"/>
+			<xs:enumeration value="OTU-2"/>
+			<xs:enumeration value="OTU-3"/>
+			<xs:enumeration value="OTU-3_e"/>
+			<xs:enumeration value="Prop-FEC-2.5"/>
+			<xs:enumeration value="Prop-FEC-10"/>
+			<xs:enumeration value="Prop-FEC-40"/>
+			<xs:enumeration value="Prop-FEC-15XXX"/>
+			<xs:enumeration value="3R"/>
+			<xs:enumeration value="2R/3R"/>
+			<xs:enumeration value="FE_Over_DS1_E1"/>
+			<xs:enumeration value="FE_Over_DS3_E3"/>
+			<xs:enumeration value="DS1_E1_Over_FE"/>
+			<xs:enumeration value="DS3_E3_T3_Over_FE"/>
+			<xs:enumeration value="LAN_TO_WAN"/>
+			<xs:enumeration value="ISC3-Peer-1G-w_STP"/>
+			<xs:enumeration value="ISC3-Peer-2G-w_STP"/>
+			<xs:enumeration value="OTU3"/>
+			<xs:enumeration value="40GE"/>
+			<xs:enumeration value="OTU2"/>
+			<xs:enumeration value="OTU2_e"/>
+			<xs:enumeration value="5G_InfiniBand"/>
+			<xs:enumeration value="HD-SDI"/>
+			<xs:enumeration value="SD-SDI"/>
+			<xs:enumeration value="3G-SDI"/>
+			<xs:enumeration value="OTU1"/>
+			<xs:enumeration value="OTU1_e"/>
+			<xs:enumeration value="OTU4" />
+			<xs:enumeration value="100GE" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="CardType">
+		<xs:annotation>
+			<xs:documentation>Supported traffic types</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="10GE_XPE"/>
+			<xs:enumeration value="10GE-ITU - w/EFEC"/>
+			<xs:enumeration value="10GE-ITU - w/FEC"/>
+			<xs:enumeration value="10GE-ITU - w/o FEC"/>
+			<xs:enumeration value="10G-XR"/>
+			<xs:enumeration value="2.5G DWDM ITU-T SFP"/>
+			<xs:enumeration value="40G DQPSK MXP - w/EFEC"/>
+			<xs:enumeration value="40G DQPSK MXP - w/FEC"/>
+			<xs:enumeration value="40G DQPSK TXP - w/EFEC"/>
+			<xs:enumeration value="40G DQPSK TXP - w/FEC"/>
+			<xs:enumeration value="40G CP-DQPSK MXP - w/EFEC"/>
+			<xs:enumeration value="40G CP-DQPSK MXP - w/FEC"/>
+			<xs:enumeration value="40G CP-DQPSK ME MXP - w/EFEC"/>
+			<xs:enumeration value="40G CP-DQPSK ME MXP - w/FEC"/>
+			<xs:enumeration value="40G CP-DQPSK TXP - w/EFEC"/>
+			<xs:enumeration value="40G CP-DQPSK TXP - w/FEC"/>
+			<xs:enumeration value="40G CP-DQPSK ME TXP - w/EFEC"/>
+			<xs:enumeration value="40G CP-DQPSK ME TXP - w/FEC"/>
+			<xs:enumeration value="40G DWDM ITU-T MXP - w/EFEC"/>
+			<xs:enumeration value="40G DWDM ITU-T TXP - w/EFEC"/>
+			<xs:enumeration value="4-10GE-ITU - w/EFEC"/>
+			<xs:enumeration value="4-10GE-ITU - w/FEC"/>
+			<xs:enumeration value="4-10GE-ITU - w/o FEC"/>
+			<xs:enumeration value="4OC192-ITU"/>
+			<xs:enumeration value="ADM-10G"/>
+			<xs:enumeration value="CRS-1 40G DPSK ITU-T LC - w/EFEC"/>
+			<xs:enumeration value="CRS-1 40G DWDM ITU-T LC - w/EFEC"/>
+			<xs:enumeration value="DWDM-X2"/>
+			<xs:enumeration value="DWDM-XENPAK"/>
+			<xs:enumeration value="DWDM-XFP - w/EFEC"/>
+			<xs:enumeration value="DWDM-XFP - w/FEC"/>
+			<xs:enumeration value="DWDM-XFP - w/o FEC"/>
+			<xs:enumeration value="GE DWDM GBIC"/>
+			<xs:enumeration value="GE XP"/>
+			<xs:enumeration value="GE XP - O"/>
+			<xs:enumeration value="GE_XPE"/>
+			<xs:enumeration value="GE_XPE - O"/>
+			<xs:enumeration value="MRC-2.5G4 - Four Trunk Mode"/>
+			<xs:enumeration value="MRC-2.5G4 - Single Trunk Mode"/>
+			<xs:enumeration value="MRC-2.5G4 - Three Trunk Mode"/>
+			<xs:enumeration value="MRC-2.5G4 - Two Trunk Mode"/>
+			<xs:enumeration value="MXP_2.5G_10E - w/EFEC"/>
+			<xs:enumeration value="MXP_2.5G_10E - w/FEC"/>
+			<xs:enumeration value="MXP_2.5G_10E_y - w/EFEC"/>
+			<xs:enumeration value="MXP_2.5G_10E_y - w/FEC"/>
+			<xs:enumeration value="MXP_MR_10DME - w/EFEC"/>
+			<xs:enumeration value="MXP_MR_10DME - w/FEC"/>
+			<xs:enumeration value="MXP_MR_10DME - w/o FEC"/>
+			<xs:enumeration value="MXP-MR-10DMEX-C - w/EFEC"/>
+			<xs:enumeration value="MXP-MR-10DMEX-C - w/FEC"/>
+			<xs:enumeration value="MXP-2.5G-10EX-C - w/EFEC"/>
+			<xs:enumeration value="MXP-2.5G-10EX-C - w/FEC"/>
+			<xs:enumeration value="OC48ELR"/>
+			<xs:enumeration value="OTU2-XP - Mixed Mode"/>
+			<xs:enumeration value="OTU2-XP - Splitter Mode"/>
+			<xs:enumeration value="OTU2-XP - Txp Mode"/>
+			<xs:enumeration value="TTXP_MR_2.5G - 2R"/>
+			<xs:enumeration value="TXP_MR_10E - w/EFEC"/>
+			<xs:enumeration value="TXP_MR_10E - w/FEC"/>
+			<xs:enumeration value="TXP_MR_10E - w/o FEC"/>
+			<xs:enumeration value="TXP_MR_10E_y - w/EFEC"/>
+			<xs:enumeration value="TXP_MR_10E_y - w/FEC"/>
+			<xs:enumeration value="TXP_MR_10E_y - w/o FEC"/>
+			<xs:enumeration value="TXP_MR_2.5G - 2R"/>
+			<xs:enumeration value="TXP_MR_2.5G - w/FEC"/>
+			<xs:enumeration value="TXP_MR_2.5G - w/o FEC"/>
+			<xs:enumeration value="TXP-MR-10EX-C  - w/EFEC"/>
+			<xs:enumeration value="TXP-MR-10EX-C  - w/FEC"/>
+			<xs:enumeration value="TXPP_MR_2.5G - w/FEC"/>
+			<xs:enumeration value="TXPP_MR_2.5G - w/o FEC"/>
+			<xs:enumeration value="AR-MXP - TXP (LR)"/>
+			<xs:enumeration value="AR-MXP - TXPP (LR)"/>
+			<xs:enumeration value="AR-MXP - MXP-DME (HR)"/>
+			<xs:enumeration value="AR-MXP - MXP-MR (HR)"/>
+			<xs:enumeration value="AR-MXP - TXP (HR)"/>
+			<xs:enumeration value="AR-MXP - MXP-MR (LR)"/>
+			<xs:enumeration value="AR-MXP - MXPP-MR (LR)"/>
+			<xs:enumeration value="AR-MXP - MXP-2.5G-10G (HR)"/>
+			<xs:enumeration value="AR-XP - TXP (LR)"/>
+			<xs:enumeration value="AR-XP - TXPP (LR)"/>
+			<xs:enumeration value="AR-XP - MXP-DME (HR)"/>
+			<xs:enumeration value="AR-XP - MXPP-DME (HR)"/>
+			<xs:enumeration value="AR-XP - MXP-MR (HR)"/>
+			<xs:enumeration value="AR-XP - MXPP-MR (HR)"/>
+			<xs:enumeration value="AR-XP - TXP (HR)"/>
+			<xs:enumeration value="AR-XP - MXP-MR (LR)"/>
+			<xs:enumeration value="AR-XP - MXPP-MR (LR)"/>
+			<xs:enumeration value="AR-XP - MXP-VAD-10G (HR)"/>
+			<xs:enumeration value="AR-XP - MXP-2.5G-10G (HR)"/>
+			<xs:enumeration value="AR-XP - MXPP-2.5G-10G (HR)"/>
+			<xs:enumeration value="100G-LC-C - w/FEC" />
+			<xs:enumeration value="100G-LC-C - w/EFEC" />
+			<xs:enumeration value="100G-ME-C - w/FEC" />
+			<xs:enumeration value="100G-ME-C - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + CFP-LC - w/FEC" />
+			<xs:enumeration value="100G-LC-C + CFP-LC - w/EFEC" />
+			<xs:enumeration value="100G-ME-C + CFP-LC - w/FEC" />
+			<xs:enumeration value="100G-ME-C + CFP-LC - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + CRS - w/FEC" />
+			<xs:enumeration value="100G-LC-C + CRS - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + ASR - w/FEC" />
+			<xs:enumeration value="100G-LC-C + ASR - w/EFEC" />
+			<xs:enumeration value="100G-ME-C + CRS - w/FEC" />
+			<xs:enumeration value="100G-ME-C + CRS - w/EFEC" />
+			<xs:enumeration value="100G-ME-C + ASR - w/FEC" />
+			<xs:enumeration value="100G-ME-C + ASR - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + ASR2 - w/FEC" />
+			<xs:enumeration value="100G-LC-C + ASR2 - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + ASR2 - w/HG-FEC" />
+			<xs:enumeration value="100G-LC-C + 10X10G-LC - w/FEC" />
+			<xs:enumeration value="100G-LC-C + 10X10G-LC - w/EFEC" />
+			<xs:enumeration value="100G-ME-C + 10X10G-LC - w/FEC" />
+			<xs:enumeration value="100G-ME-C + 10X10G-LC - w/EFEC" />
+			<xs:enumeration value="10X10G-LC - Txp Mode" />
+			<xs:enumeration value="100GS-CK-LC - w/SD-FEC_20" />
+			<xs:enumeration value="100GS-CK-LC + 10X10G-LC - w/SD-FEC_20" />
+			<xs:enumeration value="100G-LC-C - w/HG-FEC" />
+			<xs:enumeration value="100G-CK-LC-C - w/FEC" />
+			<xs:enumeration value="100G-CK-LC-C - w/EFEC" />
+			<xs:enumeration value="100G-CK-LC-C - w/HG-FEC" />
+			<xs:enumeration value="100G-CK-ME-C - w/FEC" />
+			<xs:enumeration value="100G-CK-ME-C - w/EFEC" />
+			<xs:enumeration value="100G-CK-LC-C + CFP-LC - w/FEC" />
+			<xs:enumeration value="100G-CK-LC-C + CFP-LC - w/EFEC" />
+			<xs:enumeration value="100G-CK-LC-C + CFP-LC - w/HG-FEC" />
+			<xs:enumeration value="100G-CK-ME-C + CFP-LC - w/FEC" />
+			<xs:enumeration value="100G-CK-ME-C + CFP-LC - w/EFEC" />
+			<xs:enumeration value="100G-LC-C + 10X10G-LC - w/HG-FEC" />
+			<xs:enumeration value="100G-CK-LC-C + 10X10G-LC - w/FEC" />
+			<xs:enumeration value="100G-CK-LC-C + 10X10G-LC - w/EFEC" />
+			<xs:enumeration value="100G-CK-LC-C + 10X10G-LC - w/HG-FEC" />
+			<xs:enumeration value="100G-CK-ME-C + 10X10G-LC - w/FEC" />
+			<xs:enumeration value="100G-CK-ME-C + 10X10G-LC - w/EFEC" />
+			<xs:enumeration value="200G-CK-LC(100G mode only) - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC(100G mode only) - w/FEC" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP  - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP + MR-MXP - w/SD-FEC_20" />			
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Mxp Mode) - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Mxp Mode) - w/EFEC" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Mxp Mode) - w/FEC" />
+			<xs:enumeration value="200G-CK-LC + 10X10G-LC + MR-MXP - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC + 10X10G-LC - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC + 10X10G-LC - w/FEC" />
+			<xs:enumeration value="200G-CK-LC + 10X10G-LC - w/EFEC" />
+			<xs:enumeration value="100GS-CK-LC + 10X10G-LC - w/SD-FEC_20" />
+			<xs:enumeration value="10X10G-LC - Splitter Mode" />
+			<xs:enumeration value="WSE - Txp Mode" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Txp Mode) - w/SD-FEC_20" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Txp Mode) - w/EFEC" />
+			<xs:enumeration value="200G-CK-LC + MR-MXP (100G Txp Mode) - w/FEC" />
+			<xs:enumeration value="100GS-CK-LC - w/FEC" />
+			<xs:enumeration value="100GS-CK-LC - w/EFEC" />
+			<xs:enumeration value="200G-CK-LC(100G mode only) - w/EFEC" />
+			<xs:enumeration value="200G-CK-LC(100G mode only) - w/EFEC" />			
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ProtectionType">
+		<xs:annotation>
+			<xs:documentation>Supported protection types</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Unprotected"/>
+			<xs:enumeration value="Fiber-Switched"/>
+			<xs:enumeration value="Client1+1"/>
+			<xs:enumeration value="Y-Cable"/>
+			<xs:enumeration value="PSM-Channel"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="HierarchyType">
+		<xs:annotation>
+			<xs:documentation>Supported hierarchy types</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Transponder"/>
+			<xs:enumeration value="LineCard"/>
+			<xs:enumeration value="PluggableCard"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="OmniContentionlessSideType">
+		<xs:restriction base="xs:string">
+		    <xs:enumeration value="Auto"/>
+			<xs:enumeration value="Yes"/>
+			<xs:enumeration value="No"/>
+			<xs:enumeration value="A"/>
+			<xs:enumeration value="B"/>
+			<xs:enumeration value="C"/>
+			<xs:enumeration value="D"/>
+			<xs:enumeration value="E"/>
+			<xs:enumeration value="F"/>
+			<xs:enumeration value="G"/>
+			<xs:enumeration value="H"/>
+			<xs:enumeration value="A(w)"/>
+			<xs:enumeration value="A(p)"/>
+			<xs:enumeration value="I"/>
+			<xs:enumeration value="J"/>
+			<xs:enumeration value="K"/>
+			<xs:enumeration value="L"/>
+			<xs:enumeration value="M"/>
+			<xs:enumeration value="N"/>
+			<xs:enumeration value="I"/>
+			<xs:enumeration value="O"/>
+			<xs:enumeration value="P"/>
+			<xs:enumeration value="Q"/>
+			<xs:enumeration value="R"/>
+			<xs:enumeration value="S"/>
+			<xs:enumeration value="T"/>
+			<xs:enumeration value="U"/>
+			<xs:enumeration value="V"/>
+			<xs:enumeration value="W"/>
+			<xs:enumeration value="X"/>
+			<xs:enumeration value="Y"/>
+			<xs:enumeration value="Z"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="SideType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="A"/>
+			<xs:enumeration value="B"/>
+			<xs:enumeration value="C"/>
+			<xs:enumeration value="D"/>
+			<xs:enumeration value="E"/>
+			<xs:enumeration value="F"/>
+			<xs:enumeration value="G"/>
+			<xs:enumeration value="H"/>
+			<xs:enumeration value="A(w)"/>
+			<xs:enumeration value="A(p)"/>
+			<xs:enumeration value="I"/>
+			<xs:enumeration value="J"/>
+			<xs:enumeration value="K"/>
+			<xs:enumeration value="L"/>
+			<xs:enumeration value="M"/>
+			<xs:enumeration value="N"/>
+			<xs:enumeration value="I"/>
+			<xs:enumeration value="O"/>
+			<xs:enumeration value="P"/>
+			<xs:enumeration value="Q"/>
+			<xs:enumeration value="R"/>
+			<xs:enumeration value="S"/>
+			<xs:enumeration value="T"/>
+			<xs:enumeration value="U"/>
+			<xs:enumeration value="V"/>
+			<xs:enumeration value="W"/>
+			<xs:enumeration value="X"/>
+			<xs:enumeration value="Y"/>
+			<xs:enumeration value="Z"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

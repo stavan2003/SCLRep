@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Error</title>
+<link rel="stylesheet" href="/SCL/css/normalize.css">
+<link rel="stylesheet" href="/SCL/css/main.css">
+<link rel="stylesheet" href="/SCL/css/jquery.steps.css">
+<link href="/SCL/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<script src="/SCL/js/jquery.js"></script>
+<script src="/SCL/js/bootstrap.js"></script>
+<script src="/SCL/js/jquery.steps.js"></script>
+<script>
+	$(function() {
+		$("#excelErrorWizard").steps({
+			headerTag : "h2",
+			bodyTag : "section",
+			transitionEffect : "slideLeft",
+			stepsOrientation : "vertical"
+		});
+	});
+</script>
+
+<style>
+body {
+	padding-top: 20px;
+	font-family: Georgia;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333333;
+}
+</style>
+</head>
+<body>
+			<div class="content">
+				<div id="excelErrorWizard">
+					<<@@ $excelError @@>>
+				</div>
+			</div>
+
+</body>
+</html>
