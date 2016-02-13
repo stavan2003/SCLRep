@@ -48,11 +48,21 @@ sub validateDuctDetails {
 		}
 
 		if(exists($ductheader{srcSide}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcSide}][$row] ne ''){
-			$ductsXML[$ductCount]{Source}{Side} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{Type}][$row];
+			$ductsXML[$ductCount]{Source}{Side} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcSide}][$row];
 		} else {
 			$ductsXML[$ductCount]{Source}{Side} = $sideNames[$sideTracker{$sourceSite}-1];
 			#print "$sourceSite : ".$sideNames[$sideTracker{$sourceSite}-1];
 		}	
+
+		if(exists($ductheader{srcPreAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcPreAmp}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Pre} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcPreAmp}][$row];
+		} 
+		if(exists($ductheader{srcBstAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcBstAmp}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Bst} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcBstAmp}][$row];
+		} 
+		if(exists($ductheader{srcRaman}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcRaman}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Raman} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcRaman}][$row];
+		} 
 
 		if(exists($ductheader{destSide}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destSide}][$row] ne ''){
 			$ductsXML[$ductCount]{Destination}{Side} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destSide}][$row];
@@ -60,6 +70,17 @@ sub validateDuctDetails {
 			$ductsXML[$ductCount]{Destination}{Side} = $sideNames[$sideTracker{$destSite}-1];
 			#print "  $destSite : ". $sideNames[$sideTracker{$destSite}-1]."\n";
 		}
+		
+		if(exists($ductheader{destPreAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destPreAmp}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Pre} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destPreAmp}][$row];
+		} 
+		if(exists($ductheader{destBstAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destBstAmp}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Bst} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destBstAmp}][$row];
+		} 
+		if(exists($ductheader{destRaman}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destRaman}][$row] ne ''){
+			$ductsXML[$ductCount]{Source}{Raman} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destRaman}][$row];
+		} 
+		
 		if(exists($ductheader{FiberType}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{FiberType}][$row] ne ''){
 			my $fibertype = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{FiberType}][$row];
 			if ( ! grep( /^$fibertype$/, @fiberTypes ) ) {

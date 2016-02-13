@@ -387,25 +387,18 @@
 														<xs:complexType>
 															<xs:attribute name="Site" type="xs:string" use="required"/>
 															<xs:attribute name="Side" type="SideType" use="required"/>
-															<xs:attribute name="Pre" type="xs:string" use="optional"/>
-															<xs:attribute name="Bst" type="xs:string" use="optional"/>
-															<xs:attribute name="Raman" type="xs:string" use="optional"/>
 														</xs:complexType>
 													</xs:element>
 													<xs:element name="Destination">
 														<xs:complexType>
 															<xs:attribute name="Site" type="xs:string" use="required"/>
 															<xs:attribute name="Side" type="SideType" use="required"/>
-															<xs:attribute name="Pre" type="xs:string" use="optional"/>
-															<xs:attribute name="Bst" type="xs:string" use="optional"/>
-															<xs:attribute name="Raman" type="xs:string" use="optional"/>
 														</xs:complexType>
 													</xs:element>
 													<xs:element name="Length" type="xs:double"/>
 													<xs:element name="Loss" type="xs:double" minOccurs="0" maxOccurs="1"/>
 													<xs:element name="Pmd" type="xs:double" minOccurs="0" maxOccurs="1"/>
 													<xs:element name="CdCBand" type="xs:double" minOccurs="0" maxOccurs="1"/>
-													<xs:element name="RamanAmplified" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
 												</xs:sequence>
 												<xs:attribute name="Name" type="xs:string" use="optional"/>
 											</xs:complexType>
