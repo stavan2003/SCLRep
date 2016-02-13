@@ -72,13 +72,13 @@ sub validateDuctDetails {
 		}
 		
 		if(exists($ductheader{destPreAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destPreAmp}][$row] ne ''){
-			$ductsXML[$ductCount]{Source}{Pre} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destPreAmp}][$row];
+			$ductsXML[$ductCount]{Destination}{Pre} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destPreAmp}][$row];
 		} 
 		if(exists($ductheader{destBstAmp}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destBstAmp}][$row] ne ''){
-			$ductsXML[$ductCount]{Source}{Bst} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destBstAmp}][$row];
+			$ductsXML[$ductCount]{Destination}{Bst} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destBstAmp}][$row];
 		} 
 		if(exists($ductheader{destRaman}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destRaman}][$row] ne ''){
-			$ductsXML[$ductCount]{Source}{Raman} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destRaman}][$row];
+			$ductsXML[$ductCount]{Destination}{Raman} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destRaman}][$row];
 		} 
 		
 		if(exists($ductheader{FiberType}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{FiberType}][$row] ne ''){
@@ -100,6 +100,9 @@ sub validateDuctDetails {
 		}
 		if(exists($ductheader{CdCBand}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{CdCBand}][$row] ne ''){
 			$ductsXML[$ductCount]{CdCBand} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{CdCBand}][$row];
+		}
+		if(exists($ductheader{RamanAmplified}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{RamanAmplified}][$row] ne ''){
+			$ductsXML[$ductCount]{RamanAmplified} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{RamanAmplified}][$row];
 		}
 		
 	       $ductCount++;

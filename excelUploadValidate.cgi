@@ -89,8 +89,8 @@ our ($functionality_ref, $structure_ref, $type_ref, $structure_functionality_typ
 
 #-------------------------------------------------- Reading the Input Excel -------------------------------------------------------------
 my $book  = ReadData ("$upload_dir/$filename");
-#$book  = ReadData ('C:/Users/stshah/Desktop/Verizon/Trials/CTP_Input_Excel_v3.xlsx');
-$book  = ReadData ('C:/Users/stshah/Desktop/Verizon/CTP_Input_Excel_v2 NYC YI20160210-v1.xlsx');
+#$book  = ReadData ('C:/Users/stshah/Desktop/Verizon/CTP_Input_Excel_Custom.xlsx');
+$book  = ReadData ('C:/Users/stshah/Desktop/Verizon/CTP_Input_Excel_Custom.xlsx');
 
 #-------------------------------------------------- Creating Worksheet Hash and check of mandatory Worksheets ----------------------------
 my %worksheet = SCL_EXCEL::get_WorkSheetHash($book);
