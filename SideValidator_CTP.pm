@@ -57,6 +57,18 @@ sub validateSideDetails {
 						push @{$sitesXML[$count]{Sides}{Side}}, \%side;
 					}
 				}
+				if(exists($sidesheader{LineSides}) and defined $book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{LineSides}][$row]){
+					my @lineSides = split /,/,$book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{LineSides}][$row];
+					print "Line Sides : @lineSides";
+					foreach (@lineSides) {
+						my %side;
+						$side{Name} = $_;
+						if(exists($sidesheader{InterleaverType}) and defined $book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{InterleaverType}][$row]){
+							$side{InterleaverType} = $book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{InterleaverType}][$row];
+						}
+						push @{$sitesXML[$count]{Sides}{Side}}, \%side;
+					}
+				}
 			}
 		} # End XML Side Creation
 	
