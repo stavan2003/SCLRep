@@ -65,7 +65,7 @@ sub validateSiteDetails {
 		if($type ne "Auto") {
 			$sitesXML[$siteCount]{Type} = $type;
 		}
-		if(exists($siteheader{Chassis}) and defined $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{Chassis}][$row]){
+		if(exists($siteheader{Chassis}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{Chassis}][$row] ne ''){
 			if ( $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{Chassis}][$row] =~ m/M15|M6|M2|M12 Chassis/i) {
 				$sitesXML[$siteCount]{Chassis} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{Chassis}][$row];
 			}
@@ -73,7 +73,7 @@ sub validateSiteDetails {
 		if(exists($siteheader{ScalableUptoDegree}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{ScalableUptoDegree}][$row] ne ''){
 			$sitesXML[$siteCount]{ScalableUptoDegree} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{ScalableUptoDegree}][$row];
 		}
-		if(exists($siteheader{EvolvedMesh}) and defined $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{EvolvedMesh}][$row]){
+		if(exists($siteheader{EvolvedMesh}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{EvolvedMesh}][$row] ne ''){
 			# if( $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{EvolvedMesh}][$row] =~ /Yes|No/i) {
 				# $sitesXML[$siteCount]{EvolvedMesh} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{EvolvedMesh}][$row];
 			# }
@@ -92,6 +92,37 @@ sub validateSiteDetails {
 		if(exists($siteheader{'NodeProtection'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'NodeProtection'}][$row] ne ''){
 			$sitesXML[$siteCount]{NodeProtection} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'NodeProtection'}][$row];
 		}
+		if(exists($siteheader{'Power'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Power'}][$row] ne ''){
+			$sitesXML[$siteCount]{Power} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Power'}][$row];
+		}
+		if(exists($siteheader{'Power'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Power'}][$row] ne ''){
+			$sitesXML[$siteCount]{Power} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Power'}][$row];
+		}
+		if(exists($siteheader{'Mpo16ToMpo8'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Mpo16ToMpo8'}][$row] ne ''){
+			$sitesXML[$siteCount]{Mpo16ToMpo8} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'Mpo16ToMpo8'}][$row];
+		}
+		if(exists($siteheader{'TxpMxpXpInOTS'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'TxpMxpXpInOTS'}][$row] ne ''){
+			$sitesXML[$siteCount]{TxpMxpXpInOTS} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'TxpMxpXpInOTS'}][$row];
+		}
+		if(exists($siteheader{'M6M2ControllerType'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M6M2ControllerType'}][$row] ne ''){
+			$sitesXML[$siteCount]{M6M2ControllerType} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M6M2ControllerType'}][$row];
+		}
+		if(exists($siteheader{'M15ControllerType'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M15ControllerType'}][$row] ne ''){
+			$sitesXML[$siteCount]{M15ControllerType} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M15ControllerType'}][$row];
+		}
+		if(exists($siteheader{'M15ControllerType'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M15ControllerType'}][$row] ne ''){
+			$sitesXML[$siteCount]{M15ControllerType} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'M15ControllerType'}][$row];
+		}
+		if(exists($siteheader{'MFUnit'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'MFUnit'}][$row] ne ''){
+			$sitesXML[$siteCount]{MFUnit} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'MFUnit'}][$row];
+		}
+		if(exists($siteheader{'DegreeMeshType'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'DegreeMeshType'}][$row] ne ''){
+			$sitesXML[$siteCount]{DegreeMeshType} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'DegreeMeshType'}][$row];
+		}
+		if(exists($siteheader{'RedundantPowerScheme'}) and $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'RedundantPowerScheme'}][$row] ne ''){
+			$sitesXML[$siteCount]{RedundantPowerScheme} = $book->[ $worksheet{'Sites'} ]{cell}[$siteheader{'RedundantPowerScheme'}][$row];
+		}
+		
 		$sideTracker{$site} = 0;
 		$siteCount++;
 	}

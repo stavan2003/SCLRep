@@ -17,8 +17,8 @@
 		$("#helpWizard").steps({
 			headerTag : "h3",
 			bodyTag : "section",
-			transitionEffect : "slideLeft",
-			stepsOrientation : "vertical"
+			transitionEffect : "slideLeft"
+
 		});
 	});
 </script>
@@ -38,8 +38,9 @@ body {
 	line-height: 1.428571429;
 	color: #333333;
 	background-color: #ffffff;
-
 }
+
+
 </style>
 </head>
 
@@ -53,19 +54,35 @@ body {
 				<div id="helpWizard">
 					<h3>Step 1</h3>
 					<section>
-						<p>Download the Excel File - Custom or Sample Excel File from the "Download Sample" link on top of the page</p>
+						<p>Download the Excel File - Custom or Sample Excel File from the <i>"Download Sample"</i> link on top of the page : </p>
+						<p><span class="badge">Simple Excel</span> Includes very basic options to create CTP based design.</p>
+						<p><span class="badge">Custom Excel</span> Includes advanced CTP properties to create customized CTP design.</p>
+						<div class="well">
+							<img class="img-responsive img-thumbnail" src="/SCL/images/Step1.jpg" alt="Step1">
+						</div>
 					</section>
 					<h3>Step 2</h3>
 					<section>
-						<p>Fill in the required data in the Downloaded Excel</p>
+						<p>Fill in the required data in the downloaded Excel. Columns highlighted in <font color="orange">Orange</font> in the Excel are mandatory to be filled.</p>
+						<p>Brief description for the Excel worksheets is as below</p>
+						<p><span class="badge">Networksheet</span> <span class="badge">Sites</span> <span class="badge">Sides</span> <span class="badge">Duct-details</span> <span class="badge">Demands</span>
+						<div class="well">
+							<img class="img-responsive img-thumbnail" src="/SCL/images/Step2.jpg" alt="Step2">
+						</div>
 					</section>
 					<h3>Step 3</h3>
 					<section>
-						<p>Select the option to generate the mpz file or generate the CTP supported Script and Command Line Excel File</p>
+						<p>Browse to the above filled-in Excel File, select the option to generate the mpz file or generate the CTP supported Script and Command Line Excel File and Submit the same.</p>
+						<div class="well">
+							<img class="img-responsive" src="/SCL/images/Step3.jpg" alt="Step3">
+						</div>
 					</section>
 					<h3>Step 4</h3>
 					<section>
-						<p>Submit the Filled-in Excel. Once validated, if there are issues re-upload the file.</p>
+						<p>Post submission, the Excel is vaidated. Once validated, if there are issues re-upload the file. Mentioned below are the FAIL/SUCCESS scenarios on upoading the file.</p>
+						<div class="well">
+							<img class="img-responsive img-thumbnail" src="/SCL/images/Step4.jpg" alt="Step4">
+						</div>
 					</section>
 				</div>
 			</div>
