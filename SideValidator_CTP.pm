@@ -57,9 +57,9 @@ sub validateSideDetails {
 						push @{$sitesXML[$count]{Sides}{Side}}, \%side;
 					}
 				}
-				if(exists($sidesheader{LineSides}) and defined $book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{LineSides}][$row]){
+				if(exists($sidesheader{LineSides}) and $book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{LineSides}][$row] ne ''){
 					my @lineSides = split /,/,$book->[ $worksheet{'Sides'} ]{cell}[$sidesheader{LineSides}][$row];
-					print "Line Sides : @lineSides";
+					#print "Line Sides : @lineSides";
 					foreach (@lineSides) {
 						my %side;
 						$side{Name} = $_;

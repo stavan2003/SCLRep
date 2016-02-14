@@ -18,7 +18,6 @@ sub validateDuctDetails {
 	my @fiberTypes = Validator_CTP::get_fiberType();
 	my @sideNames = ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z");
 	
-	
 	for (my $row=2; $row <= $book->[ $worksheet{'Duct-details'} ]{maxrow} ; $row++){
 		my $sourceSite = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{srcsite}][$row];
 		$sourceSite =~ s/^\s+|\s+$//g;
@@ -27,15 +26,17 @@ sub validateDuctDetails {
 			$excel_sheet_errors .= SCL_EXCEL::get_ExcelSheetErrorString($row,"Source site $sourceSite is not defined in 'Sites' Sheet");
 		}
 		$sideTracker{$sourceSite} ++;
-			
+
 		my $destSite = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{destsite}][$row];
 		$destSite =~ s/^\s+|\s+$//g;
 		$ductsXML[$ductCount]{Destination}{Site} = $destSite;
 		if ( ! grep( /^$destSite$/, @sites ) ) {
 			$excel_sheet_errors .= SCL_EXCEL::get_ExcelSheetErrorString($row,"Destination site $destSite is not defined in 'Sites' Sheet");
 		}
-		
 		$sideTracker{$destSite} ++;
+		
+		#print "Side Tracker Src: $sourceSite ".$sideTracker{$sourceSite}."\n";
+		#print "Side Tracker Dst: $destSite ".$sideTracker{$destSite}."\n";
 		
 		#-------------------------------------------------- Ducts XML----------------------------------------------------------------------------
 		  
@@ -106,8 +107,19 @@ sub validateDuctDetails {
 		}
 		
 	       $ductCount++;
-		
-
+	}
+	
+	for( my $siteCount = 0; $siteCount < scalar @sitesXML; $siteCount++){
+		#print $sitesXML[$siteCount]{Name}." ".$sitesXML[$siteCount]{Structure}." ".$sitesXML[$siteCount]{Functionality}." ".$sideTracker{$sitesXML[$siteCount]{Name}}."\n";
+		my $name = $sitesXML[$siteCount]{Name};
+		if($sitesXML[$siteCount]{Structure} eq 'Line' or $sitesXML[$siteCount]{Functionality} eq 'Gain equalizer' or $sitesXML[$siteCount]{Functionality} eq 'Line amplifier') {
+			if($sideTracker{$name} > 2){
+				$excel_sheet_errors .= SCL_EXCEL::get_ExcelSheetErrorString('',"Site $name :".$sitesXML[$siteCount]{Structure}." ".$sitesXML[$siteCount]{Functionality}." has invalid number of ducts");
+			}
+		}
+		if($sitesXML[$siteCount]{Structure} eq 'Multi-degree' and $sideTracker{$name} > $sitesXML[$siteCount]{ScalableUptoDegree}){
+			$excel_sheet_errors .= SCL_EXCEL::get_ExcelSheetErrorString('',"Site $name :".$sitesXML[$siteCount]{Structure}." has invalid number of ducts");
+		}
 	}
 	return $excel_sheet_errors;
 }

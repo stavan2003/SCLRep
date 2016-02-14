@@ -33,7 +33,12 @@ sub get_WorkSheetHeader {
 
 sub get_ExcelSheetErrorString {
 	my ($row, $error) = @_;
-	my $excel_sheet_errors = "<p>Row #: $row	Error:	$error</p>";
+	my $excel_sheet_errors = '';
+	if($row != '') {
+		$excel_sheet_errors = "<p>Row #: $row	Error:	$error</p>";
+	} else {
+		$excel_sheet_errors = "<p>Error:	$error</p>";
+	}
 	#print "$excel_sheet_errors\n";
 	return $excel_sheet_errors;
 }

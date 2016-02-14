@@ -59,4 +59,20 @@ sub get_NodeTypes {
 	return @nodeTypes;
 
 }
+
+sub get_PreAmps {
+	my @preAmps = ('OPT-EDFA-17','OPT-EDFA-24','OPT-AMP-C','OPT-AMP-17','OPT-BST-E','OPT-PRE','OPT-BST','EDRA1-26C-PRE','EDRA1-35C-PRE','EDRA2-26C-PRE','EDRA2-35C-PRE','SMR9-FS-EDFA17-PRE','SMR9-FS-EDFA24-Pre','SMR9-FS-EDFA34-Pre','SMR20-FS-EDFA17-Pre','SMR20-FS-EDFA24-PRE');
+	return @preAmps;
+}
+
+sub get_BstAmps {
+	my @bstAmps = ('OPT-EDFA-17','OPT-EDFA-24','OPT-AMP-C','OPT-AMP-17','OPT-BST-E','OPT-BST');
+	return @bstAmps;
+}
+
+sub get_RamanAmps {
+	my @ramanAmps = ('RAMAN-CTP','RAMAN-COP-CTP','OPT-RAMP-CE','OPT-RAMP-C');
+	return @ramanAmps;
+}
+
 1;
