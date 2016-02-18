@@ -103,9 +103,10 @@ sub validateDuctDetails {
 			$ductsXML[$ductCount]{CdCBand} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{CdCBand}][$row];
 		}
 		if(exists($ductheader{RamanAmplified}) and $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{RamanAmplified}][$row] ne ''){
-			$ductsXML[$ductCount]{RamanAmplified} = $book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{RamanAmplified}][$row];
+			if($book->[ $worksheet{'Duct-details'} ]{cell}[$ductheader{RamanAmplified}][$row] =~ m/True|Yes/i) {
+				$ductsXML[$ductCount]{RamanAmplified} = 'true';
+			}
 		}
-		
 	       $ductCount++;
 	}
 	
