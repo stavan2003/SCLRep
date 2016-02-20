@@ -6,28 +6,35 @@
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 				<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="/cgi-bin/SCL/index.cgi">Garuda v2.0</a>
+			<a class="navbar-brand" href="/cgi-bin/SCL/index.cgi"><span class="glyphicon glyphicon-home"></span> Garuda v2.0</a>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="/cgi-bin/SCL/help.cgi">Getting Started</a></li>
-				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Download Sample<span class="caret"></span></a>
+				<li><a href="/cgi-bin/SCL/help.cgi"><span class="glyphicon glyphicon-hand-right"></span> Getting Started</a></li>
+				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-download"></span>  Sample<span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="/SCL/SampleExcel/CTP_Input_Excel_Simple.xlsx">Simple Excel</a></li>
 						<li><a href="/SCL/SampleExcel/CTP_Input_Excel_Custom.xlsx">Custom Excel</a></li>
 					</ul>
 				</li>
-				<li><a href="/cgi-bin/SCL/upload_queue.cgi">Request Queue</a></li>
-				<li><a href="mailto:garuda_support@cisco.com?Subject=Design%20Query" target="_top">Contact Us</a></li>
-				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Supported Configurations<span class="caret"></span></a>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-cog"></span> Configurations<span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="/cgi-bin/SCL/supported_configs.cgi">Structure - Functionality - Type</a></li>
 						<li role="separator" class="divider"></li>
 						<li><a href="/cgi-bin/SCL/supported_servicetypes.cgi">Service Type vs Card Type</a></li>
-					</ul></li>
+					</ul>
+				</li>
+				<li><a href="mailto:garuda_support@cisco.com?Subject=Design%20Query" target="_top"><span class="glyphicon glyphicon-envelope"></span> Contact</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
-				<li class="active"><a href="/cgi-bin/SCL/upload_archives.cgi">Welcome <<@@ $name @@>></a></li>
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span>    <<@@ $name @@>> <span class="caret"></a>
+						<ul class="dropdown-menu">
+							<li><a href="/cgi-bin/SCL/upload_archives.cgi">Upload Archives</a></li>
+							<li><a href="/cgi-bin/SCL/upload_queue.cgi">Request Queue</a></li>
+						</ul>
+					</li>
+					
 			</ul>
 		</div>
 		<!--/.nav-collapse -->
